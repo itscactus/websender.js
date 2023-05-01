@@ -1,0 +1,16 @@
+{
+  "name": "websender",
+  "version": "1.0.1",
+  "description": "Made by GPT 4 with love",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "cactusdev",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "net": "^1.0.2"
+  }
+}
